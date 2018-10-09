@@ -5,7 +5,7 @@
  * Date: 2018/10/8
  * Time: 下午 09:16
  */
-namespace demo\hello;
+namespace Demo\hello;
 
 class Someone
 {
@@ -14,3 +14,4 @@ class Someone
         echo 'Hello '.$name.PHP_EOL;
     }
 }
+>

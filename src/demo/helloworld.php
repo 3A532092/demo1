@@ -5,7 +5,7 @@
  * Date: 2018/10/8
  * Time: 下午 09:12
  */
-namespace demo;
+namespace Demo;
 
 class HelloWorld
 {
@@ -14,3 +14,4 @@ class HelloWorld
         echo 'Hello World~'.PHP_EOL;
     }
 }
+>
