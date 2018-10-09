@@ -14,4 +14,3 @@ class Lara
         echo 'Hello Lara~'.PHP_EOL;
     }
 }
->
